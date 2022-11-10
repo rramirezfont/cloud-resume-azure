@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cloud_resume_azure": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7003",
+      "launchBrowser": false
+    }
+  }
+}
